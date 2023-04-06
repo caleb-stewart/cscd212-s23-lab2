@@ -4,23 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9c401da-9cf9-44cb-821c-2583dda75893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cscd212classes/lab2/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionModelScreenSizeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionResolutionMakeDescendingComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionScreenSizeComparator.java" afterDir="false" />
+    <list default="true" id="bb335f30-d244-4a60-8c3c-eb2be6f18772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cscd212-s23-lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cscd212-s23-lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cscd212classes/lab2/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212classes/lab2/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionModelScreenSizeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionModelScreenSizeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionResolutionMakeDescendingComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionResolutionMakeDescendingComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionScreenSizeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionScreenSizeComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,16 +23,17 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2O10vFOAmhzM47lEzyb1zmYtR6o" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2O3nnRGWdV1zAYwP6vX24KS5UzW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -45,18 +41,103 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.TATelevisionTest$BasicOtherQuickTests.testToString">
+    <configuration name="All in cscd212-s23-lab2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionResolutionMakeDescendingComparatorTest$Compare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2.TATelevisionResolutionMakeDescendingComparatorTest" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionResolutionMakeDescendingComparatorTest$Compare" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionTest$BasicOtherQuickTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2.TATelevisionTest" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionTest$BasicOtherQuickTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionTest$BasicOtherQuickTests.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2.TATelevisionTest" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionTest$BasicOtherQuickTests" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TATelevisionTest$BasicOtherQuickTests.testToString" />
+        <item itemvalue="JUnit.All in cscd212-s23-lab2" />
+        <item itemvalue="JUnit.TATelevisionTest$BasicOtherQuickTests" />
+        <item itemvalue="JUnit.TATelevisionTest" />
+        <item itemvalue="JUnit.TATelevisionResolutionMakeDescendingComparatorTest$Compare" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b9c401da-9cf9-44cb-821c-2583dda75893" name="Changes" comment="" />
-      <created>1680713009199</created>
+      <changelist id="bb335f30-d244-4a60-8c3c-eb2be6f18772" name="Changes" comment="" />
+      <created>1680798302864</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680713009199</updated>
-      <workItem from="1680713010251" duration="3029000" />
+      <updated>1680798302864</updated>
+      <workItem from="1680798304837" duration="29000" />
+      <workItem from="1680798349208" duration="21000" />
+      <workItem from="1680798416065" duration="36000" />
     </task>
     <servers />
   </component>

@@ -6,9 +6,11 @@ import java.util.Comparator;
 public class TelevisionResolutionMakeDescendingComparator implements Comparator<Television>{
 
     public int compare(Television t1, Television t2) {
-        int comp1 = t1.getResolution() - t2.getResolution();
+        if(t1 == null || t2 == null)
+            throw new IllegalArgumentException("null parameter in TelevisionResolutionMakeDescendingComparator");
+        int comp1 = t2.getResolution() - t1.getResolution();
         if(comp1 == 0)
-            return t1.getMake().compareTo(t2.getMake());
+            return t2.getMake().compareTo(t1.getMake());
         else
             return comp1;
 
