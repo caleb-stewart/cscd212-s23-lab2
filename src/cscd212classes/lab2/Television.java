@@ -60,9 +60,9 @@ public class Television implements Comparable<Television> {
                 res = this.make + "-" + this.model + ", " + this.screenSize + " inch smart tv with " + this.resolution + " resolution";
         }
             else if (fourK) {
-                res = this.make + "-" + this.model + ", " + this.screenSize + " inch tv with 4k resolution";
+                res = this.make + "-" + this.model + ", " + this.screenSize + " inch tv with 4K resolution";
                 if (smart)
-                    res = this.make + "-" + this.model + ", " + this.screenSize + " inch smart tv with 4k resolution";
+                    res = this.make + "-" + this.model + ", " + this.screenSize + " inch smart tv with 4K resolution";
             }
         return res;
     }

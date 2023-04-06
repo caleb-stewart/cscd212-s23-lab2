@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bb335f30-d244-4a60-8c3c-eb2be6f18772" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cscd212-s23-lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cscd212-s23-lab2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cscd212classes/lab2/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212classes/lab2/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionModelScreenSizeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionModelScreenSizeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionResolutionMakeDescendingComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionResolutionMakeDescendingComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionScreenSizeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionScreenSizeComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.TATelevisionTest$BasicOtherQuickTests.testToString">
+  <component name="RunManager" selected="JUnit.All in cscd212-s23-lab2">
     <configuration name="All in cscd212-s23-lab2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cscd212-s23-lab2" />
       <option name="PACKAGE_NAME" value="" />
@@ -119,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TATelevisionTest$BasicOtherQuickTests.testToString" />
         <item itemvalue="JUnit.All in cscd212-s23-lab2" />
+        <item itemvalue="JUnit.TATelevisionTest$BasicOtherQuickTests.testToString" />
         <item itemvalue="JUnit.TATelevisionTest$BasicOtherQuickTests" />
         <item itemvalue="JUnit.TATelevisionTest" />
         <item itemvalue="JUnit.TATelevisionResolutionMakeDescendingComparatorTest$Compare" />
